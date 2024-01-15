@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  HM7
+//  HW7.1
 //
-//  Created by Margarita Samoilova on 07/01/2024.
+//  Created by Margarita Samoilova on 14/01/2024.
 //
 
 import UIKit
